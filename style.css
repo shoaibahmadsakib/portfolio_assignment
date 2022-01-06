@@ -44,11 +44,15 @@ body {
    
 }
 #header_style h1{
-    border-left: 5px solid tomato;
+    border-left: 5px solid #474dff;
+    padding-left: 10px;
 }
 
+.text_part p{
+    padding-bottom: 10px;
+}
 .text_part span{
-    color: tomato;
+    color: #474dff;
 }
 .image_part {
   width: 45%;
@@ -60,8 +64,8 @@ body {
 }
 .overall_button{
     text-decoration: none;
-    padding: 5px 10px;
-    background-color: coral;
+    padding: 10px 10px;
+    background-color: #474dff;
     color: white;
     font-size: 20px;
     border-radius: 5px;
@@ -85,7 +89,7 @@ body {
   font-size: 48px;
 }
 .mission_2022 span{
-    color: tomato;
+    color: #474dff;
 }
 .first_box,
 .second_box,
@@ -146,7 +150,7 @@ body {
 .portfolio_image a{
     text-decoration: none;
     padding: 5px 10px;
-    background-color: coral;
+    background-color: #474dff;
     color: white;
     font-size: 20px;
     border-radius: 5px;
